@@ -1,0 +1,55 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    background-image: url(Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+form{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+h2{
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Menubar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-stretch: normal;
+    background-color: yellow;
+    font-size: 30px;
+    
+
+}
+.list{
+    display: inline-block;
+    padding: 30px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list-hover{
+    color: red;
+    transition-duration: 0.5s;
+}
+.btn{
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+}
+
